@@ -1,19 +1,8 @@
-
-<h1>Inhoudsopgave</h1>
+<h1>Squad-page</h1>
 
 <h2>Beschrijving</h2>
+Het idee van deze overzichtspagina is een kaartspel met alle visitekaartjes van squad A van de opleiding FDND op de HvA. Als je op een kaartje klikt, springt deze omhoog en als je op de knop klikt ga je naar het persoonlijke visitekaartje. Als je op de schuifknop drukt, draaien alle kaarten om. Je kan dan een visitekaartje blind kiezen en je laten verrassen! De pagina is responsive met media queries en heeft dark en light mode. 
 
-* Kenmerken
-* Installatie/ Gebruik
-* Bronnen
-* Licentie
-
-
- <h2>Beschrijving</h2>
- 
- Squadpage met 25 visitekaarten waar je doormiddel van een knop kaarten kan omdraaien, ook kan je op ieder kaart klikken en via de button (visitekaart) naar github gaan van de eigenaar waar je de visitekaartje volledig kunt bekijken. Squadpage is responsive met media queries en heeft dark en light mode. 
- 
- 
 
 <img width="1425" alt="Screenshot 2022-09-23 at 10 53 50" src="https://user-images.githubusercontent.com/94745953/191925621-835264e6-ea12-4891-99d4-10aa9e40c2be.png">
 
@@ -28,25 +17,16 @@
 * http://magicuniverse.student.fdnd.nl/
 
 
-<h2>Kenmerken</h2>
+<h2>Tools</h2>
 
-- code:
- HTML,
- CSS en 
+- Code:
+ HTML
+ CSS
  JavaScript 
  
 
 
-- Tools:
+- Programma's:
  Figma
-Visual Studio code 
+ Visual Studio Code 
 
-
-
-<h2>Installatie & Gebruik</h2>
-
-N.V.T.
-
-<h2>Licentie</h2>
-
-N.V.T
