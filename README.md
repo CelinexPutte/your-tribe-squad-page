@@ -20,13 +20,13 @@ Het idee van deze overzichtspagina is een kaartspel met alle visitekaartjes van 
 <h2>Tools</h2>
 
 - Code:
- HTML
- CSS
+ HTML,
+ CSS en
  JavaScript 
  
 
 
 - Programma's:
- Figma
+ Figma en
  Visual Studio Code 
 
